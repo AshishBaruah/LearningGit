@@ -1,3 +1,3 @@
-# Learning-Collab
+# LearningGit
 
 This was a file created while learning GIT.
